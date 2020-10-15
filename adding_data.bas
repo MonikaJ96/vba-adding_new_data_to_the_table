@@ -2,7 +2,6 @@ Option Explicit
 
 Sub adding_data()
 
-Dim information As String
 Dim newdate As String
 Dim newdealer As String
 Dim newproduct As String
